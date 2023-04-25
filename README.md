@@ -7,7 +7,7 @@ Multi-Modal Medical Image Registration Framework using Laplacian Pyramid for pre
 - `NumPy`
 - `NiBabel`
 
-This code has been tested on ([Google Colaboraty](https://colab.research.google.com/)) with `Pytorch 2.0.0+cu118` and Tesla T4 GPU.
+This code has been tested on [Google Colaboraty](https://colab.research.google.com/) with `Pytorch 2.0.0+cu118` and Tesla T4 GPU.
 
 ## Instructions
 
