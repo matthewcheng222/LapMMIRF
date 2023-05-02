@@ -11,11 +11,11 @@ This code has been tested on [Google Colaboraty](https://colab.research.google.c
 
 ## Instructions
 All required imports and functions are contained in the `LapMMIRF.ipynb` file, running all cells would do the following. 
-- `download necessary datasets from the IXI dataset`
-- `install and import standard and third part libraries`
-- `train the model using the specified hyperparameters`
-- `save the trained model to the output folder as model.pth`
-- `test the model with random images and saving the registered images`
+- download necessary datasets from the IXI dataset
+- install and import standard and third part libraries
+- train the model using the specified hyperparameters
+- save the trained model to the output folder as model.pth
+- test the model with random images and saving the registered images
 
 ## Dataset
 All fixed and moving images in this directory is obtained from the [IXI Dataset](https://brain-development.org/ixi-dataset/). 
